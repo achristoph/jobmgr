@@ -1,3 +1,3 @@
-module gitlab-master.nvidia.com/nvtools-release/cmd/nvtools
+module jobmgr
 
-go 1.19
+go 1.22
